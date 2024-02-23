@@ -1,0 +1,8 @@
+    Binning, also known as bucketing, is a data preprocessing technique used to reduce the effects of minor observation errors.
+    grouping a set of numerical values into bins or intervals.
+    smoothing data and in handling noisy data by creating a more manageable number of categories.
+    commonly used in histogram representation for continuous data.
+    can be performed in different ways: equal-width binning, equal-frequency binning, and custom binning.
+    equal-width binning: divides the range of data into intervals of equal size.
+    equal-frequency binning: divides the data into intervals that contain approximately the same number of samples.
+    binning can lead to loss of information, especially if the number of bins is not chosen carefully.

@@ -1,3 +1,4 @@
 1. extend work using the current datasets and not the old repeated ones
 2. extend the concepts to a new dataset (ex: hispitals, road network)
-3.   
+3. find correlation between diversity and product export
+4. find correlation between diversity and product import
